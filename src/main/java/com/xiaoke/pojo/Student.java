@@ -5,4 +5,5 @@ public class Student {
     int age = 18;
 	int score = 90;
 	int aaa = 1;
+	int bbb = 2;
 }
